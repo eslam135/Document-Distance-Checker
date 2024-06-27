@@ -1,0 +1,9 @@
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+E:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
